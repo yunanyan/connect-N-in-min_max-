@@ -1,1 +1,1 @@
-# yunanyan.github.io
+# Connect N game with AI. 
